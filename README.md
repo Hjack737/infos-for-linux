@@ -1,4 +1,4 @@
-**hjacks Info script**
+**hjacks Info script** <br>
 With this script, you can create a simple HTML file with some informations about your Region. *The script is still in progress.*
 
 **How to use it?**
